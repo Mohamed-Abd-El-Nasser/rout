@@ -2,5 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 body{
+    color:red;
     background-color: cornflowerblue !important;
 }
